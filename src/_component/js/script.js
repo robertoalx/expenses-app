@@ -21,3 +21,7 @@ let payment = [
   },
 ];
 console.log(payment);
+
+for(x = 0; x < budget.length; x++){
+  console.log("In " + budget[x].date + "and I spent £" + budget[x].moneySpent + " and the reason is: " +budget[x].reason + ".")
+}
