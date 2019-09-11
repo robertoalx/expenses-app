@@ -10,12 +10,12 @@ let payment = [
   moneySpent: 31
   },
   {
-  date: "01-09-2019",
+  date: "03-09-2019",
   reason: "rent",
   moneySpent: 31
   },
   {
-  date: "01-09-2019",
+  date: "04-09-2019",
   reason: "rent",
   moneySpent: 31
   },
